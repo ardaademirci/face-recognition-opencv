@@ -1,0 +1,7 @@
+It is most likely that you are going to face some problems when installing 'dlib' and
+thus 'face-recognition' libraries.
+
+By following the steps on this solution you can solve the problem with 'dlib' installation.
+
+https://stackoverflow.com/questions/76629574/error-could-not-build-wheels-for-dlib-which-is-required-to-install-pyproject
+
