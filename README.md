@@ -11,6 +11,7 @@ This means it can be placed on the entrance of an exclusive event with celebriti
 
 I will post the photos I used for my code and then the screenshots of the program working.
 
+![alt text](https://github.com/ardaademirci/face-recognition-opencv/blob/ImagesAttendance/Andrew Garfield.jpg?raw=true)
 
 
 The screenshots:
